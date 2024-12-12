@@ -1,0 +1,21 @@
+.date-card {
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.date-card div {
+  background-color: bisque;
+  padding: 10px 10px;
+  
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px ;
+}
+
+.date-card ul {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
